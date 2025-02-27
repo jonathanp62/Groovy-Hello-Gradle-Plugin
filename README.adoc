@@ -1,0 +1,7 @@
+Hello-Gradle-Plugin
+-------------------
+
+A Gradle plugin that says hello when the task is invoked and prints project information.
+
+Current version: 0.1.0.
+~~~~~~~~~~~~~~~~~~~~~~~
